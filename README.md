@@ -4,7 +4,7 @@ Este projeto simula uma rede social simples com funcionalidades básicas de cada
 
 ## Funcionalidades
 
-### `RedeSocial`
+### `Rede Social`
 - **Cadastro de Usuário:** Permite criar um novo usuário com nome, e-mail e senha.
 - **Login:** Permite fazer login com um usuário existente.
 - **Adicionar Amigo:** Adiciona um amigo à lista de amigos do usuário logado.
@@ -14,9 +14,9 @@ Este projeto simula uma rede social simples com funcionalidades básicas de cada
 - **Logout:** Encerra a sessão do usuário logado.
 
 
-### `TelaInicialGUI`
+### `Tela Inicial `
 A classe `TelaInicialGUI` oferece uma tela inicial com a opção de iniciar a rede social. Ao clicar em "Iniciar", abre a `RedeSocialGUI`.
-### `RedeSocialGUI`
+### `Rede Social`
 Essa classe representa a interação por meio de uma interface gráfica (Swing). Oferece funcionalidades semelhantes à `RedeSocial` por meio de botões e pop-ups.
 
 ### Como Usar:
